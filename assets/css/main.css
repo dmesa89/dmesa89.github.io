@@ -305,6 +305,11 @@ input, select, textarea {
 	input, select, textarea {
 		color: #212931;
 	}
+	
+	a.disable {
+		
+		cursor: default;
+	  }
 
 	a {
 		color: #212931;
