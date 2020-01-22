@@ -189,6 +189,9 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
+	}
+
+	#main-paragraph{
 		padding: 0px 100px 0px 100px;
 	}
 
