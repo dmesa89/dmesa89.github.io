@@ -333,7 +333,7 @@ input, select, textarea {
 		  .gradient-text:hover{
 			color:rgba(0,0,0,0);
 		  }
-		  @keyframes rainbow { 
+		  @-webkit-keyframes rainbow { 
 			0%{background-position:left}
 			50%{background-position:right}
 			100%{background-position:left}
